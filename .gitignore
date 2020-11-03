@@ -1,0 +1,16 @@
+
+obj/asp-net-core-mvc.csproj.nuget.dgspec.json
+.vscode/launch.json
+.vscode/tasks.json
+obj/asp-net-core-mvc.csproj.nuget.g.props
+obj/asp-net-core-mvc.csproj.nuget.g.targets
+obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.assets.cache
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.RazorAssemblyInfo.cache
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.RazorAssemblyInfo.cs
+obj/Debug/netcoreapp3.1/project.razor.json
+obj/project.assets.json
+obj/project.nuget.cache
