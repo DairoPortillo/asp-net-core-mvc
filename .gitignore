@@ -14,3 +14,11 @@ obj/Debug/netcoreapp3.1/asp-net-core-mvc.RazorAssemblyInfo.cs
 obj/Debug/netcoreapp3.1/project.razor.json
 obj/project.assets.json
 obj/project.nuget.cache
+bin/Debug/netcoreapp3.1/asp-net-core-mvc.dll
+bin/Debug/netcoreapp3.1/asp-net-core-mvc.pdb
+bin/Debug/netcoreapp3.1/asp-net-core-mvc.Views.dll
+bin/Debug/netcoreapp3.1/asp-net-core-mvc.Views.pdb
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.dll
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.pdb
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.Views.dll
+obj/Debug/netcoreapp3.1/asp-net-core-mvc.Views.pdb
